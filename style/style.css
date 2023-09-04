@@ -1,0 +1,155 @@
+*{
+    margin: 0%;
+}
+header{
+    background: rgba(229, 84, 115, 0.10);
+}
+.headpart{
+    margin: 0px 200px;
+    display: flex;
+}
+.headtext{
+    margin: 160px 30px 30px 10px;
+}
+.headtext>h1{
+    margin: 20px 0;
+
+}
+.mainbtn{
+    display: inline-flex;
+    margin: 20px 0;
+    padding: 15px 30px;
+    border: 0;
+    font-size:16px ;
+    font-weight: 700;
+    color: white;
+    border-radius: 8px;
+    background: #E55473;
+}
+.headimg{
+    width: 435px;
+    margin-top: 50px;
+    flex-shrink: 0;
+}
+
+
+.hotdeal{
+    background-color: rgba(241, 78, 114, 0.05);
+    display: flex;
+    padding: 80px 200px;
+    text-align: center;
+}
+.hottex{
+    padding: 140px 100px;
+}
+.hottex>h1{
+    margin-bottom: 15px;
+}
+
+.normaltext{
+    text-align: center;
+    margin: 80px 200px;
+}
+.normaltext>h1{
+    margin: 20px;
+}
+
+.flowerpart{
+    margin: 50px 80px;
+    display: flex;    
+}
+
+.floweone{
+    width: 280px;
+    margin: 20px;
+    height: 320px;
+    flex-shrink: 0;
+    padding: 20px 20px 0 20px;
+    border-radius: 300px 300px 0px 0px;
+    background-color: rgba(167, 33, 98, 0.15) ;
+   
+}
+.flowetwo{
+    width: 280px;
+    height: 320px;
+    margin: 20px;
+    flex-shrink: 0;
+    padding: 20px 20px 0 20px;
+    border-radius: 300px 300px 0px 0px;
+    background-color:rgba(5, 151, 160, 0.15) ;
+}
+.flowethree{
+    width: 280px;
+    height: 320px;
+    margin: 20px;
+    padding: 20px 20px 0 20px;
+    border: 20px;
+    flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px;
+    background-color: rgba(71, 125, 17, 0.15) ;
+}
+.flowerses{
+    width: 50%;
+    /* padding: 20px;
+    border: 20px; */
+    text-align: center;
+}
+
+.socialimg{
+    width: 70%;
+    margin: 5px;
+}
+
+.socialone{
+    width: 242px;
+    height: 292px;
+}
+.socialtwo{
+    width: 242px;
+    height: 292px;
+}
+.socialthree{
+    width: 242px;
+    height: 292px;
+}
+.socialfour{
+    width: 242px;
+    height: 292px;
+}
+
+
+.latestdeal{
+    background-image: url(Rectangle\ 9.png);
+    margin: 80px;
+    text-align: center;
+    border-radius: 5px;
+    padding-bottom: 120px;
+}
+.latesttext{
+    padding: 100px 100px 10px 100px;
+}
+.latesttext>h1{
+    margin: 20px;
+}
+
+.latestitem>input{
+    margin: 2px 5px;
+    border: 0;  
+    padding: 15px 300px 15px 13px;
+    width: 150px;
+    border-radius: 5px;
+}
+
+footer{
+    background-color: rgb(19, 15, 15);
+    color: white;
+    text-align: center;
+    padding: 100px;
+}
+.shop{
+    margin: 20px;
+}
+.ftext{
+    color: rgba(255, 255, 255, 0.411);
+    margin: 10px;
+}
